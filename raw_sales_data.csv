@@ -1,0 +1,13 @@
+Order_ID,Customer_Name,City,Product,Quantity,Unit_Price,Order_Date
+101,  rahul sharma  ,mumbai,Wireless Mouse,2,$450,2024-01-15
+102,Pooja Patil,PUNE,Keyboard,1,$800,16/01/2024
+103,Amit Verma,delhi,USB Cable,3,$150,Jan 17 2024
+101,rahul sharma,mumbai,Wireless Mouse,2,$450,2024-01-15
+104,sneha kulkarni,Pune,Laptop Stand,1,$1200,2024-01-18
+105,  AMIT VERMA  ,Delhi,USB Cable,2,$150,2024-01-19
+106,vikram singh,nagpur,Gaming Headset,1,$1500,20/01/2024
+107,Neha Joshi,mumbai,Wireless Mouse,1,$450,2024-01-21
+108,Rohan Mane,Pune,Keyboard,2,$800,Jan 22 2024
+102,Pooja Patil,PUNE,Keyboard,1,$800,16/01/2024
+109,priya deshmukh,MUMBAI,Laptop Stand,2,$1200,2024-01-23
+110,Aniket Shinde,NAGPUR,Wireless Mouse,3,$450,24/01/2024
